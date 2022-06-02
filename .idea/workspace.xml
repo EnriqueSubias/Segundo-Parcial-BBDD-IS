@@ -1,49 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a20a0b88-703d-4c21-a6dd-2163996de613" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Segundo-Parcial-BBDD-IS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pralab-2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praula-1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recu_16_17/CompositeProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recu_16_17/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recu_16_17/LinesIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recu_16_17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recu_16_17/MeanLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recu_16_17/Recu_16_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recu_16_17/SequenceProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recu_16_17/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad3/IS-actividad3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad3/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IS_actividad3/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IS_actividad3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad3/src/Pack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IS_actividad3/Pack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad3/src/PriceChanged.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IS_actividad3/PriceChanged.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad3/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IS_actividad3/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/IS-actividad4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/src/CompVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IS_actividad4/CompVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/src/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IS_actividad4/Component.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/src/Composite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IS_actividad4/Composite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/src/Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IS_actividad4/Leaf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IS_actividad4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IS_actividad4/src/SumVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IS_actividad4/SumVisitor.java" afterDir="false" />
+    <list default="true" id="a20a0b88-703d-4c21-a6dd-2163996de613" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="d81af3fe-282b-4517-a2b0-4dd853fdf4bf" name="Changes by TriiF" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,8 +75,16 @@
       <updated>1654180100748</updated>
       <workItem from="1654180101985" duration="37000" />
       <workItem from="1654180180386" duration="2836000" />
-      <workItem from="1654195204422" duration="10305000" />
+      <workItem from="1654195204422" duration="11641000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1654209608679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654209608679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,5 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
